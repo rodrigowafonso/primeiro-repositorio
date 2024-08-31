@@ -19,8 +19,8 @@ jobs:
       # Executando um script Python
       - name: "Executando um Script em Python"
         run: |
-          var_rwa = "Escrevendo com Python"
-          print(var_rwa)
+          variavel = "Escrevendo com Python"
+          print(variavel)
 
     
 
