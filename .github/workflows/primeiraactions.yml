@@ -21,6 +21,7 @@ jobs:
         run: |
           variavel = "Escrevendo com Python"
           print(variavel)
+        shell: python
 
     
 
