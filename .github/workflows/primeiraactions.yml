@@ -15,6 +15,13 @@ jobs:
         run: |
           echo "Rodrigo Afonso, você criou sua primeira ação"
           echo "Parabéns!!! Rodrigo Afonso, KI TOP!!! KIKITOP"
+      
+      # Executando um script Python
+      - name: "Executando um Script em Python"
+        run: |
+          var_rwa = "Escrevendo com Python"
+          print(var_rwa)
+
     
 
   
